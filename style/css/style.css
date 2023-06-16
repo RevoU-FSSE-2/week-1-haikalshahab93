@@ -1,0 +1,59 @@
+body{
+    font-family: Georgia, serif;
+}
+
+
+.main{
+    justify-content: center;
+    text-align: center;
+    background-color:white;
+    background-color: antiquewhite;
+}
+
+
+.datapribadi{
+    justify-content: center;
+    text-align: center;
+}
+.judul{
+    font-size: 30px;
+    margin-top: 50px;
+    font-weight: bold;
+    color: red;
+    
+}
+
+img{
+    border-radius: 50%;
+    width: 350px;
+    height: 350px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+p{
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    
+}
+
+.about{
+display: flex;
+text-align: center;
+justify-content: center; 
+}
+
+.about a{
+    letter-spacing: 3px;
+    margin-right: 20px;
+}
+
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+}
